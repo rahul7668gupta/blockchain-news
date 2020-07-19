@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/blockchain-news/static/css/main.050523cc.chunk.css",
+    "main.js": "/blockchain-news/static/js/main.9868a0a4.chunk.js",
+    "main.js.map": "/blockchain-news/static/js/main.9868a0a4.chunk.js.map",
+    "runtime-main.js": "/blockchain-news/static/js/runtime-main.0904a97f.js",
+    "runtime-main.js.map": "/blockchain-news/static/js/runtime-main.0904a97f.js.map",
+    "static/css/2.5a089067.chunk.css": "/blockchain-news/static/css/2.5a089067.chunk.css",
+    "static/js/2.ac09ba90.chunk.js": "/blockchain-news/static/js/2.ac09ba90.chunk.js",
+    "static/js/2.ac09ba90.chunk.js.map": "/blockchain-news/static/js/2.ac09ba90.chunk.js.map",
+    "index.html": "/blockchain-news/index.html",
+    "precache-manifest.b7433d94d38e46bcb27efd595ce612ab.js": "/blockchain-news/precache-manifest.b7433d94d38e46bcb27efd595ce612ab.js",
+    "service-worker.js": "/blockchain-news/service-worker.js",
+    "static/css/2.5a089067.chunk.css.map": "/blockchain-news/static/css/2.5a089067.chunk.css.map",
+    "static/css/main.050523cc.chunk.css.map": "/blockchain-news/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.ac09ba90.chunk.js.LICENSE.txt": "/blockchain-news/static/js/2.ac09ba90.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/blockchain-news/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0904a97f.js",
+    "static/css/2.5a089067.chunk.css",
+    "static/js/2.ac09ba90.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.9868a0a4.chunk.js"
+  ]
+}
